@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "I2c")(type "KiCad")(uri "C:/Users/itism/Downloads/CEG003400 (2)/pretty")(options "")(descr ""))
+)
