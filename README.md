@@ -50,7 +50,7 @@ The firmware was written in C using the Raspberry Pi Pico SDK.
 
 | Index | Quantity | Part Description | Link | Cost |
 |---|---:|---|---|---:|
-| 1 | 1 | PCB + 3D Printed Case + Shipping | https://jlcpcb.com | $28.92 |
+| 1 | 1 | PCB + 3D Printed Case + Shipping | https://jlcpcb.com | $16.2 |
 | 2 | 1 | Screws Kit | https://www.amazon.in/gp/product/B0C394FK9B/ref=ewc_pr_img_1?smid=A31OPLJ1CRU4J5&th=1 | $3.87 |
 | 3 | 1 | M3 × 6 mm Brass Heat Inserts | https://www.amazon.in/gp/product/B0BB86CQSJ/ref=ewc_pr_img_2?smid=A2JDRZEGU1IDE2&psc=1 | $0.79 |
 | 4 | 2 | Keycap Set | https://www.amazon.in/gp/product/B0F13YK4D6/ref=ewc_pr_img_3?smid=AH0KEO6T9U8SH&psc=1 | $9.20 |
@@ -61,7 +61,7 @@ The firmware was written in C using the Raspberry Pi Pico SDK.
 
 ## Total Cost
 
-**$61.37 USD**
+**$48.68 USD**
 
 ---
 
